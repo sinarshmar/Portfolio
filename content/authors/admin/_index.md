@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
+- name: ION Trading Pvt. Ltd
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,23 +30,31 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #label: Follow me on Twitter
+  #link: https://twitter.com/GeorgeCushen
+- #icon: graduation-cap
+  #icon_pack: fas
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sinarshmar
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kumar-utkarsh-singh/
 superuser: true
 title: Kumar Utkarsh Singh
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+3+ years of experience working with Investment Banking firms. Refining data and converting numbers into actionable insights, building machine learning applications, taking data-driven product decisions & building cutting edge analytics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Languages & Platforms: Python, R, Pyspark, PowerBI
+
+• Working closely with Dealer to Customer trading products in Over the Counter markets across the globe, used by Investment Banks and Financial Institutions.
+
+• Intermediate knowledge on End-to-End trading flow in Fixed Income Business at OTC markets.
+
+• Hands on experience on market terminals applications (Bloomberg, TradeWeb, MarketAxess).
+
+• Intermediate knowledge of Fixed Income Securities and trading markets.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
