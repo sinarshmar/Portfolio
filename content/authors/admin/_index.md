@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: SITE IS UNDER CONSTRUCTION
   matter.
 education:
   courses:
