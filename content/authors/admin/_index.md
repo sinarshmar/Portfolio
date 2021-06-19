@@ -20,14 +20,13 @@ interests:
 - Information Retrieval
 organizations:
 - name: ION Trading Pvt. Ltd
-  url: https://www.stanford.edu/
 role: Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
-  header: true
+    header: true
 - icon: github
   icon_pack: fab
   link: https://github.com/sinarshmar
@@ -38,7 +37,7 @@ superuser: true
 title: Kumar Utkarsh Singh
 ---
 
-3+ years of experience working with Investment Banking firms. Refining data and converting numbers into actionable insights, building machine learning applications, taking data-driven product decisions & building cutting edge analytics.
+4+ years of experience working with Investment Banking firms. Refining data and converting numbers into actionable insights, building machine learning applications, taking data-driven product decisions & building cutting edge analytics.
 
 Languages & Platforms: Python, R, Pyspark, PowerBI
 
